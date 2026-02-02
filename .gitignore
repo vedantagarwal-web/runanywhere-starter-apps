@@ -37,3 +37,7 @@ kotlin-app/*.iml
 *.tmp
 .env
 .env.local
+
+# Android build artifacts
+react-native-app/android/app/.cxx/
+react-native-app/android/app/debug.keystore
